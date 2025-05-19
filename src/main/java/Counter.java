@@ -1,7 +1,7 @@
 package src.main.java;
 
 public class Counter {
-
+b
 	private int count;
 	
 	public Counter() {
