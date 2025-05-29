@@ -5,7 +5,7 @@ public class Driver {
 	public static void main(String[] args) {
 		
 		Counter counter = new Counter();
-		b
+		bc
 		System.out.println("Test123 Count:" + counter.getCount());
 		
 		counter.increment();
